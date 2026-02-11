@@ -1,3 +1,4 @@
+![LunosPay Overview](https://github.com/user-attachments/assets/74118cde-4aa1-48de-b241-56084c4a4fec)
 <div align="center">
 
 <img src="https://img.shields.io/badge/Solana-Powered-black?style=for-the-badge&logo=solana&logoColor=14F195" alt="Solana Powered" />
