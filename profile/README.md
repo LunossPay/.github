@@ -1,3 +1,4 @@
+<div align="center">
 <img width="500" height="500" alt="WhatsApp_Image_2026-02-10_at_15 02 58-removebg-preview" src="https://github.com/user-attachments/assets/b91d9939-3934-411e-bff2-782ffd4ec4db" />
 
 <div align="center">
