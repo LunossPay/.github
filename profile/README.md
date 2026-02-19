@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,7,8,9&height=200&section=header&text=LunosPay&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=The%20Future%20of%20Payments%20on%20Solana&descAlignY=60&descSize=20&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a1a1a,100:0d0d0d&height=200&section=header&text=LunosPay&fontSize=72&fontColor=d4f542&fontAlignY=38&desc=The%20Future%20of%20Payments%20on%20Solana&descAlignY=60&descSize=20&descColor=a8c73a&animation=fadeIn" width="100%"/>
 
 <br/>
 
@@ -393,7 +393,7 @@ Yes. No long-term contracts. Cancel from your dashboard at any time with no pena
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,17,20&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a1a1a,100:0d0d0d&height=120&section=footer" width="100%"/>
 
 **MIT License © 2025 LunosPay, Inc.**
 
