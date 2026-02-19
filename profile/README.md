@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,17,20&height=200&section=header&text=LunosPay%20%E2%9A%A1&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=The%20Future%20of%20Payments%20on%20Solana&descAlignY=60&descSize=20&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,7,8,9&height=200&section=header&text=LunosPay&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=The%20Future%20of%20Payments%20on%20Solana&descAlignY=60&descSize=20&animation=fadeIn" width="100%"/>
 
 <br/>
 
